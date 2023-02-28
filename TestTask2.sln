@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FromFileToDatabase", "TestTask2\FromFileToDatabase\FromFileToDatabase.csproj", "{454B4F33-4D3C-4BEE-9D47-450CB62A38E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FromFileToDatabase", "FromFileToDatabase\FromFileToDatabase.csproj", "{454B4F33-4D3C-4BEE-9D47-450CB62A38E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{365186A0-8553-4782-A9FA-7F8ED10570E5}"
 EndProject
